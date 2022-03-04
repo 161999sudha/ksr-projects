@@ -1,4 +1,10 @@
 git stage changes....
+
+
+
+
+
+
 def call(String mavenGoal){
   
   if ("${mavenGoal}" == "Clean")
